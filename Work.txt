@@ -1,0 +1,32 @@
+Blockchain Based Logging to Defeat Malicious Insiders The Case of Remote Health Monitoring Systems
+
+
+
+blockchain_based_logging
+
+
+IEEE Transaction Access on Blockchain,Volume:12,Issue Date:25.January.2024
+
+
+
+Members
+-------
+
+PatientId	
+Patient_Age	
+Patient_Gender	
+Disease	
+Hospital_Location	
+Residence_type	
+smoking_status	
+work_type	
+RestingBP	
+RestingECG	
+Type	
+LogStatus	
+AuditDt
+Hashcode
+
+
+
+View_All_Patient_Logs_Audited_Data_Type_By_Blockchain
