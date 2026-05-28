@@ -151,4 +151,4 @@ This project is for educational purposes as part of a B.Tech Major Project at Bh
 
 ---
 
-<p align="center">Made with ❤️ by <strong>APPISETTY HARI</strong></p>
+<p align="center">Made with ❤️ by <strong><a href="https://linkedin.com/in/appisettyhari">APPISETTY HARI</a></strong></p>
